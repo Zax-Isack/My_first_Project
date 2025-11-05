@@ -9,9 +9,10 @@ def patient_rejistartion():
         Full_name = input("- ")
         Age = int(input("- "))
         Place_of_resident =input("- ")
-        print("Payment required for all rejistration and file creating.")
+        print("You are welcome for your medical trearment.")
 
 
 while True:
     patient = patient_rejistartion()
     print(patient)
+
